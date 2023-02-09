@@ -1,0 +1,21 @@
+.imgCarrito {   
+    width: 2rem;
+    height: 2rem;
+    color: rgba(255, 255, 255, 0.904);
+}
+
+.contenedorCart {
+    margin-top: auto;
+    margin-bottom: auto;
+    float: left;
+    margin-right: 5px;
+}
+
+.contenedorNumero {
+   float: right;
+   margin-right: 20px;
+}
+.numeroCart {
+    color:yellow;
+    font-size: 15px;
+}
