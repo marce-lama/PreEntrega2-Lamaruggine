@@ -8,7 +8,7 @@ const Landing = () => {
     <div className='landingContainer'>
       <Navbar />
 
-      <ItemListContainer greeting = "Página dedida a la Venta, Comercialización e Importacion de cervezas del mundo" /> 
+      <ItemListContainer greeting = "Página dedicada a la Venta, Comercialización e Importación de cervezas del mundo." /> 
 
     </div>
   )
