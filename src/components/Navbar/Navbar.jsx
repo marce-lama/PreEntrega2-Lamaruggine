@@ -4,7 +4,6 @@ import './Navbar.css'
 
 const Navbar = () => {
   return (
-    <>
         <nav class="navbar navbar-expand-lg navbar-dark navbarMenu">
           <div class="container-fluid">
                 <a class="navbar-brand" href="#">
@@ -27,7 +26,6 @@ const Navbar = () => {
             </div>
           </div>
         </nav>
-    </>
   )
 }
 

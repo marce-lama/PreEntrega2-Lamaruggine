@@ -1,8 +1,19 @@
-.textGreeting {
-    font-size: 50px;
-    color:white;
-    font-family:Georgia, 'Times New Roman', Times, serif; 
-    text-align: center;
-    padding: 20px;
-    margin-top: 30px;
+.productContainer {
+    margin-top: 50px;
 }
+.product {
+    border: 2px solid yellow;    
+    margin: 20px;
+    border-radius: 10%;
+}
+.tituloProdu {
+    color: white;
+}
+.precioProdu {
+    background-color: yellow;
+    color: black;
+}
+
+/*.cols {
+    margin: 20px;
+}*/

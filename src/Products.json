@@ -1,0 +1,13 @@
+[
+    {"id":1, "marca":"Strong Blond: Delirium Tremens", "descripcion":"", "pais": "Bélgica", "precio": 2500, "imagen": "../imgs/1-Strong-Blond.png"},
+    {"id":2, "marca":"Budweiser Budvar Checa", "descripcion":"", "pais": "República Checa", "precio": 2150, "imagen": "../imgs/2-Budweiser-Budvar-Checa.png"},
+    {"id":3, "marca":"Guiness", "descripcion":"", "pais": "Irlanda", "precio": 2750, "imagen": "../imgs/3-Guiness.png"},
+    {"id":4, "marca":"Augustiner bräu Salzburg", "descripcion":"", "pais": "Austria", "precio": 1900," imagen": "../imgs/4-Augustiner.png"},
+    {"id":5, "marca":"Hofbäuhaus", "descripcion":"", "pais": "Alemania", "precio": 2050, "imagen": "../imgs/5-Hofbauhaus.png"}, 
+    {"id":6, "marca":"Rochefort 10", "descripcion":"", "pais": "Francia", "precio": 2300," imagen": "../imgs/6-Rochefort.png"},
+    {"id":7, "marca":"Mort Subite", "descripcion":"", "pais": "Bélgica", "precio": 2450," imagen": "../imgs/7-Mort-Subite.png"},
+    {"id":8, "marca":"Hoegaarden", "descripcion":"", "pais": "Bélgica","precio": 2600," imagen": "../imgs/8-Hoegaarden.png"},
+    {"id":9, "marca":"Fullers Indian Pale Ale", "descripcion":"", "pais": "Inglaterra", "precio": 2200," imagen": "../imgs/9-Fullers.png"},
+    {"id":10, "marca":"Camba Pale Ale", "descripcion":"", "pais": "Alemania", "precio": 1950," imagen": "../imgs/10-Camba.png"},
+    {"id":11, "marca":"Estrella Damm Inedit", "descripcion":"", "pais": "España", "precio": 2050," imagen": "../imgs/11-Estrella-Damm.png"}
+]
