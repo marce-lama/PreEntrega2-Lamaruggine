@@ -2,11 +2,20 @@
     margin-top: 50px;
 }
 .product {
-    border: 2px solid yellow;    
+    border: 2px solid white;
     margin: 20px;
     border-radius: 10%;
 }
+.imagenProdu{
+    width: 100%;
+}
+.product:hover {
+    transform: scale(1.1);
+}
 .tituloProdu {
+    color: white;
+}
+.paisOrigen {
     color: white;
 }
 .precioProdu {
@@ -14,6 +23,17 @@
     color: black;
 }
 
-/*.cols {
-    margin: 20px;
-}*/
+.btnAgregar {
+    width: 27px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 10%;
+    margin-bottom: 5px;
+}
+.btnEliminar {
+    width: 27px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 10%;
+    margin-bottom: 5px;
+}
