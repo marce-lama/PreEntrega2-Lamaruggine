@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 import CartWidget from '../CartWidget/CartWidget'
 import './Navbar.css'
 
@@ -7,7 +8,7 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg navbar-dark navbarMenu">
           <div className="container-fluid">
                 <a className="navbar-brand" href="#">
-                  <img src="../Logo-Pagina-Web.png" alt="logo" style={{width:'5rem'}}/>
+                 <Link to={`/`}><img src="../Logo-Pagina-Web.png" alt="logo" style={{width:'5rem'}}/></Link>
                 </a>
               <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
